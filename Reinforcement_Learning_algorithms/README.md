@@ -1,0 +1,1 @@
+L'objectif de ce travail est d'explorer l'apprentissage par renforcement qui fait partie du Machine Learning et ses applications, en plus d'implémenter les algorithmes UCB et Thompson qui présentent 2 approches qui aident à résoudre un problème très connu dans ce domaine.
