@@ -1,1 +1,1 @@
-
+Ce mini-projet vise à créer un rapport consolidé dans Power BI conçu pour fournir une analyse complète des données de ventes. L'objectif est de transformer les métriques de vente brutes en une série de visualisations perspicaces qui facilitent la prise de décisions basées sur les données.
